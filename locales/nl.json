@@ -1,0 +1,143 @@
+{
+  "common": {
+    "loading": "Laden...",
+    "saving": "Opslaan...",
+    "sending": "Verzenden...",
+    "date": "Datum",
+    "customer": "Klant",
+    "service": "Dienst",
+    "status": "Status",
+    "action": "Actie",
+    "details": "Details",
+    "edit": "Bewerken",
+    "delete": "Verwijderen",
+    "cancel": "Annuleren",
+    "confirm": "Bevestigen",
+    "success": "Succes",
+    "error": "Fout",
+    "description": "Beschrijving",
+    "city": "Stad"
+  },
+  "navigation": {
+    "home": "Home",
+    "services": "Diensten",
+    "about": "Over ons",
+    "contact": "Contact",
+    "login": "Inloggen",
+    "register": "Registreren",
+    "dashboard": "Dashboard",
+    "profile": "Profiel",
+    "logout": "Uitloggen"
+  },
+  "auth": {
+    "login": {
+      "title": "Inloggen",
+      "email": "E-mailadres",
+      "password": "Wachtwoord",
+      "submit": "Inloggen",
+      "forgotPassword": "Wachtwoord vergeten?",
+      "noAccount": "Nog geen account?",
+      "createAccount": "Account aanmaken"
+    },
+    "register": {
+      "title": "Registreren",
+      "name": "Naam",
+      "email": "E-mailadres",
+      "password": "Wachtwoord",
+      "confirmPassword": "Bevestig wachtwoord",
+      "submit": "Registreren",
+      "alreadyHaveAccount": "Heb je al een account?",
+      "login": "Inloggen"
+    }
+  },
+  "quoteForm": {
+    "title": "Offerte Aanvragen",
+    "name": "Naam",
+    "email": "E-mail",
+    "phone": "Telefoonnummer",
+    "address": "Adres",
+    "city": "Stad",
+    "postalCode": "Postcode",
+    "serviceType": "Type dienst",
+    "description": "Beschrijving van het probleem",
+    "urgency": "Urgentie",
+    "urgencyLevels": {
+      "low": "Laag - binnen een week",
+      "medium": "Gemiddeld - binnen 48 uur",
+      "high": "Hoog - binnen 24 uur",
+      "emergency": "Noodgeval - zo snel mogelijk"
+    },
+    "preferredDate": "Voorkeursdatum",
+    "preferredTime": "Voorkeurstijd",
+    "submitButton": "Offerte Aanvragen",
+    "submitSuccess": {
+      "title": "Aanvraag Verzonden",
+      "description": "We hebben uw aanvraag ontvangen en sturen u een bevestigingsmail."
+    },
+    "submitError": {
+      "title": "Fout",
+      "description": "Er is een fout opgetreden bij het verzenden van uw aanvraag. Probeer het later opnieuw."
+    }
+  },
+  "quoteConfirmation": {
+    "title": "Bedankt voor uw offerte aanvraag!",
+    "description": "Uw aanvraag is succesvol ontvangen. Binnen 72 uur ontvangt u gegarandeerd 3 tot 5 offertes van gekwalificeerde loodgieters in uw omgeving.",
+    "emailSent": "We hebben een bevestigingsmail gestuurd naar het door u opgegeven e-mailadres. Controleer ook uw spam-folder als u de e-mail niet ziet."
+  },
+  "leadManagement": {
+    "title": "Lead Management",
+    "searchPlaceholder": "Zoek leads...",
+    "assignedPlumber": "Toegewezen loodgieter",
+    "selectPlumber": "Selecteer een loodgieter",
+    "noPlumber": "Geen loodgieter toegewezen",
+    "fetchLeadsError": {
+      "title": "Fout",
+      "description": "Er is een fout opgetreden bij het ophalen van de leads."
+    },
+    "fetchPlumbersError": {
+      "title": "Fout",
+      "description": "Er is een fout opgetreden bij het ophalen van de loodgieters."
+    },
+    "assignPlumberError": {
+      "title": "Fout",
+      "description": "Er is een fout opgetreden bij het toewijzen van de loodgieter."
+    },
+    "assignPlumberSuccess": {
+      "title": "Succes",
+      "description": "Loodgieter succesvol toegewezen."
+    }
+  },
+  "plumberDashboard": {
+    "title": "Loodgieter Dashboard",
+    "welcome": "Welkom terug",
+    "activeLeads": "Actieve Leads",
+    "completedJobs": "Voltooide Opdrachten",
+    "upcomingAppointments": "Aankomende Afspraken",
+    "recentActivity": "Recente Activiteit",
+    "noActiveLeads": "Geen actieve leads op dit moment",
+    "noCompletedJobs": "Nog geen voltooide opdrachten",
+    "noUpcomingAppointments": "Geen aankomende afspraken",
+    "viewAllLeads": "Bekijk alle leads",
+    "viewAllJobs": "Bekijk alle opdrachten",
+    "viewAllAppointments": "Bekijk alle afspraken"
+  },
+  "adminDashboard": {
+    "title": "Admin Dashboard",
+    "totalPlumbers": "Totaal Aantal Loodgieters",
+    "totalCustomers": "Totaal Aantal Klanten",
+    "totalLeads": "Totaal Aantal Leads",
+    "revenueThisMonth": "Omzet Deze Maand",
+    "leadsByStatus": "Leads per Status",
+    "topPerformingPlumbers": "Best Presterende Loodgieters",
+    "recentActivity": "Recente Activiteit"
+  },
+  "notifications": {
+    "newLead": "Nieuwe lead beschikbaar",
+    "leadAssigned": "Een lead is aan u toegewezen",
+    "quoteAccepted": "Uw offerte is geaccepteerd",
+    "appointmentReminder": "Herinnering: Afspraak morgen",
+    "paymentReceived": "Betaling ontvangen",
+    "systemUpdate": "Systeemupdate beschikbaar"
+  }
+}
+
